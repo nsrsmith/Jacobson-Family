@@ -1,6 +1,6 @@
-# Jacobson Sisters' Norway — how to read this page
+# Jacobson Sisters' Norway: How to Read This Page
 
-This folder holds a family-history page about **Gertrude Betty Jacobson (1921–2015)** and her sisters — Violette, Lucille, Maxine, Opal — of Radcliffe, Iowa, and where their family came from before Iowa.
+This folder holds a family-history page about **Gertrude Betty Jacobson (1921–2015)** and her sisters (Violette, Lucille, Maxine, Opal) of Radcliffe, Iowa, and where their family came from before Iowa.
 
 All four of Gertrude's grandparents were born in Norway, and all four lines come from the **same stretch of coast**: the fjords around Etne, Fjelberg and Ølen, in the district called **Sunnhordland**, south of Bergen. The page follows every one of them home — **62 people, eight generations, back to 1679** — and shows the farm or parish where each was born.
 
@@ -13,7 +13,7 @@ Everything you need is the single file **`index.html`**.
 **Double-click `index.html`.** It opens in whatever web browser you already use. There is nothing to install, no account, no password.
 
 - You can **email the file to someone**, or put it on a memory stick, and it will work on their computer exactly the same way.
-- It works on a phone or tablet too — the layout rearranges itself.
+- It works on a phone or tablet too. The layout rearranges itself.
 - It is one self-contained file. Nothing is stored, nothing is sent anywhere, and nothing you click can break it. **If you get lost, close it and open it again.**
 
 ---
